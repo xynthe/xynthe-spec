@@ -1,198 +1,90 @@
-Dust Open Source License (DOSL)
+---
 
-Version 1.0
+# Dust Open Source License v1.0
 
-Copyright © 2026 Dust LLC
-All rights reserved.
+## Intelligence Infrastructure Edition (DOSL-IIE-1.0)
 
-⸻
+Copyright (c) 2026 Dust LLC, and Contributors
 
-Plain-Language Summary (Non-Binding)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-This license lets you freely use, study, modify, and share software released by Dust LLC, including for commercial purposes.
+---
 
-In exchange, it sets a few clear expectations:
-	•	You must always keep “Copyright © Dust LLC” visible in source code and in materials that ship with binaries.
-	•	You may not claim ownership of Dust LLC’s name, trademarks, patents, or original work.
-	•	You may not imply that Dust LLC endorses or supports your project.
-	•	The software is provided as-is, without warranty or support.
-	•	If something goes wrong, Dust LLC is not responsible for damages.
+## 1. Attribution
 
-This summary is here to help humans understand the intent.
-The legally binding terms begin below.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-⸻
+---
 
-1. Purpose
+## 2. Intelligence Asset Independence
 
-The Dust Open Source License (“License”) is intended to encourage open use, experimentation, and collaboration around software released by Dust LLC, while clearly defining ownership, attribution, and responsibility.
+The Software is infrastructure software and does not claim ownership over any Intelligence Assets.
 
-This License allows broad freedom to use, modify, and distribute the Software, with the understanding that:
-	•	Dust LLC provides the Software without warranties, guarantees, or support;
-	•	responsibility for using the Software rests entirely with the user;
-	•	Dust LLC retains full ownership of its intellectual property;
-	•	attribution to Dust LLC must always be preserved.
+For purposes of this License, “Intelligence Assets” include, but are not limited to:
 
-This License is designed to be permissive, clear, and fair to all parties.
+* machine learning models
+* neural network weights and parameters
+* model shards
+* embeddings
+* training data
+* inference outputs
+* fine-tuned derivatives
+* or any learned computational artifacts
 
-⸻
+Intelligence Assets are NOT covered by this License unless explicitly licensed under it by their owner.
 
-2. Definitions
+Use of the Software to create, store, execute, host, distribute, or operate Intelligence Assets does NOT:
 
-“Licensor” means Dust LLC.
+* transfer ownership of Intelligence Assets,
+* impose this License on Intelligence Assets, or
+* grant any rights over Intelligence Assets to the Software authors or contributors.
 
-“Software” means any source code, object code, binaries, documentation, specifications, or related materials made available by the Licensor under this License.
+Ownership and licensing of Intelligence Assets remain solely with their respective owners.
 
-“You” or “Your” means any individual or legal entity exercising rights under this License.
+---
 
-“Derived Work” means any work that is based on, incorporates, modifies, adapts, translates, compiles, links to, or is otherwise derived from the Software, in whole or in part, whether in source or binary form.
+## 3. Sovereign Network Rights
 
-⸻
+You may use the Software to deploy, operate, modify, and run independent or commercial networks, protocols, or infrastructure.
 
-3. Grant of Rights
+This License does not restrict:
 
-Subject to the terms of this License, the Licensor grants You a worldwide, royalty-free, non-exclusive, perpetual license to:
-	•	use the Software for any purpose;
-	•	copy and reproduce the Software;
-	•	modify the Software;
-	•	create Derived Works;
-	•	distribute the Software and Derived Works in source or binary form;
-	•	sublicense the Software and Derived Works under terms of Your choosing.
+* commercial use
+* protocol deployment
+* network monetization
+* protocol modification
+* or sovereign infrastructure operation
 
-These rights are granted provided that You comply with all requirements of this License.
+---
 
-⸻
+## 4. Patent Grant
 
-4. Mandatory Attribution
+Each Contributor grants You a perpetual, worldwide, non-exclusive, royalty-free license under any patent claims owned or controlled by the Contributor that are necessarily infringed by their contributions.
 
-4.1 Required Copyright Notice
+If You initiate patent litigation claiming that the Software infringes a patent, this patent license terminates immediately.
 
-All distributions of the Software or any Derived Work, whether in source form or binary form, must prominently display the following notice:
+---
 
-Copyright © Dust LLC
+## 5. No Trademark License
 
-This notice must be:
-	•	preserved in source code headers where such headers exist;
-	•	included in documentation or legal notices accompanying binary distributions;
-	•	included in “About,” “Legal,” or equivalent attribution materials where such materials are provided.
+This License does not grant permission to use any trademarks, service marks, or trade names of the Licensor, except as required for reasonable and customary attribution.
 
-You may not remove, obscure, or alter this notice.
+---
 
-⸻
+## 6. Disclaimer of Warranty
 
-4.2 Additional Notices
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-You may add Your own copyright notices for Your contributions, provided that such notices do not remove, replace, or diminish the Dust LLC notice.
+---
 
-⸻
+## 7. Limitation of Liability
 
-5. Intellectual Property Ownership
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-5.1 Copyright
+---
 
-This License does not transfer ownership of any copyright.
+## SPDX Identifier
 
-All copyrights in the Software remain the property of Dust LLC or their respective owners.
+DOSL-IIE-1.0
 
-⸻
-
-5.2 Patents
-
-This License does not grant any express or implied license to any patents or patent claims held by Dust LLC, except to the limited extent necessary to use the unmodified Software as distributed.
-
-No patent rights are granted for:
-	•	modifications to the Software;
-	•	combinations with other systems;
-	•	downstream products;
-	•	physical devices or hardware;
-	•	research, experimental, or commercial outcomes derived from use of the Software.
-
-⸻
-
-5.3 Trademarks
-
-This License does not grant permission to use any trademarks, service marks, logos, or branding of Dust LLC, including but not limited to names associated with the Software.
-
-The only permitted use of such names is for the purpose of satisfying the attribution requirements of this License.
-
-⸻
-
-6. No Endorsement
-
-Nothing in this License grants permission to suggest or imply that Dust LLC endorses, sponsors, or supports any Derived Work, product, service, or organization.
-
-⸻
-
-7. No Warranty
-
-The Software is provided “as is.”
-
-Dust LLC makes no warranties or promises of any kind, whether express, implied, or statutory, including but not limited to warranties of:
-	•	merchantability;
-	•	fitness for a particular purpose;
-	•	non-infringement;
-	•	accuracy;
-	•	reliability;
-	•	security;
-	•	or correctness.
-
-You assume all risks associated with using the Software.
-
-⸻
-
-8. No Support or Maintenance
-
-Dust LLC has no obligation to provide:
-	•	support;
-	•	maintenance;
-	•	updates;
-	•	bug fixes;
-	•	documentation;
-	•	compatibility assurances.
-
-Any support that may be offered is provided at Dust LLC’s discretion and does not create an ongoing obligation.
-
-⸻
-
-9. Limitation of Liability
-
-To the maximum extent permitted by law, Dust LLC and its contributors shall not be liable for any damages arising from or related to the Software or this License, including but not limited to:
-	•	direct or indirect damages;
-	•	incidental or consequential damages;
-	•	loss of data, profits, or business opportunity;
-	•	system failure or downtime;
-	•	physical, financial, or economic loss.
-
-This limitation applies regardless of the legal theory under which liability is claimed, even if Dust LLC has been advised of the possibility of such damages.
-
-⸻
-
-10. Termination
-
-If You fail to comply with the terms of this License, the rights granted to You automatically terminate.
-
-Upon termination, You must cease distribution of the Software and any Derived Works that do not comply with this License.
-
-⸻
-
-11. Severability
-
-If any provision of this License is found to be unenforceable, that provision shall be adjusted to the minimum extent necessary to make it enforceable, and the remaining provisions shall remain in effect.
-
-⸻
-
-12. Governing Law
-
-This License shall be governed by and interpreted in accordance with the laws of the jurisdiction in which Dust LLC is organized, without regard to conflict-of-law principles.
-
-⸻
-
-13. Entire Agreement
-
-This License constitutes the complete agreement regarding the Software and supersedes all prior or contemporaneous understandings relating to it.
-
-⸻
-
-END OF TERMS
-
-⸻
+---
