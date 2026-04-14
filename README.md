@@ -1,6 +1,5 @@
 # Xynthe Specification
-## Comprehensive README.md
-### Xynthe: A Unified Orchestration Framework & Human Interface for Autonomous Intelligence
+## Xynthe: A Unified Orchestration Framework & Human Interface for Autonomous Intelligence
 
 **Version 2.0**  
 **April 2026**
